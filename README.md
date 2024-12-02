@@ -74,4 +74,4 @@ MIT License
 
 ## 联系方式
 
-- 项目链接: [https://github.com/你的用户名/mbti-test](https://github.com/你的用户名/mbti-test)
+- 项目链接: [https://github.com/ihoooohi/mbti-test](https://github.com/ihoooohi/mbti-test)
