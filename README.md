@@ -18,9 +18,9 @@
 ## 安装说明
 
 1. 克隆项目
-
+ihoo
 ```bash
-git clone https://github.com/你的用户名/mbti-test.git
+git clone https://github.com/ihoo/mbti_test.git
 cd mbti-test
 ```
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-访问 `http://localhost:3000` 即可使用测试系统。
+访问 `https://f0c65c89-f603-49c1-86ef-1c7eb122893b-00-5tmabap187sx.sisko.replit.dev/` 即可使用测试系统。
 
 ## 项目结构
 
@@ -68,10 +68,10 @@ python app.py
 
 如果你想贡献代码，欢迎提交 Pull Request。
 
-## 许可证
+## 许可证ihoo
 
 MIT License
 
 ## 联系方式
 
-- 项目链接: [https://github.com/ihoooohi/mbti-test](https://github.com/ihoooohi/mbti-test)
+- 项目链接: [https://github.com/ihoooohi/mbti_test](https://github.com/ihoooohi/mbti_test)
